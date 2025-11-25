@@ -34,4 +34,5 @@ Derudover, sletter den et element i listen (***Smells Like Teen Spirit - Nirvana
    <img width="611" height="212" alt="image" src="https://github.com/user-attachments/assets/0d9975d6-6081-4213-ab7c-44c357d61db5" />
 3. Derudover vil den nye playliste `playlist-out.txt`
 <img width="324" height="104" alt="image" src="https://github.com/user-attachments/assets/fd8b2391-17c5-4a0b-8436-83df0b31a33b" />
+<img width="480" height="233" alt="image" src="https://github.com/user-attachments/assets/cc0981fa-435d-4f87-8626-3336c7393936" />
 
